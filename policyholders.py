@@ -1,4 +1,3 @@
-
 class Policyholder:
     def __init__(self, name, surname, tel_number, age):
         self.name = name
